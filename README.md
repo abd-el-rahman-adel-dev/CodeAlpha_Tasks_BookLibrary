@@ -42,3 +42,29 @@ git clone https://github.com/abd-el-rahman-adel-dev/CodeAlpha_Tasks_BookLibrary.
 cd CodeAlpha_Tasks_BookLibrary
 npm install
 npm start
+
+📦 CodeAlpha_Tasks_BookLibrary
+┣ 📂 public
+┣ 📂 src
+┃ ┣ 📂 components
+┃ ┣ 📜 App.jsx
+┃ ┣ 📜 index.js
+┃ ┗ 📜 App.css
+┗ 📜 package.json
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](./LICENSE).
+
+---
+
+## 🙋‍♂️ Author
+
+- [Abd El-Rahman Adel](https://github.com/abd-el-rahman-adel-dev)
+- [LinkedIn](https://www.linkedin.com/in/abdelrahman-adel-webdev)
+
+---
+
+⭐ If you like this project, consider giving it a star on GitHub!
+
