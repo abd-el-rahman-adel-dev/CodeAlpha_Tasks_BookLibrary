@@ -2,13 +2,13 @@
 
 A simple React app that allows users to manage their personal book collection. You can add, edit, and delete books from your library with an intuitive and responsive interface.
 
-> 🔗 Featured on [LinkedIn Post](https://www.linkedin.com/posts/abd-el-rahman-adel-dev_javascript-html-css-activity-7246324245931147264-T0ir?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEah8IkBjMk2EJi1EE6Ixmd0ZbtCvA9HqIg)
+> 🔗 Featured on [LinkedIn Post](https://www.linkedin.com/posts/codebyabdo_javascript-html-css-activity-7246324245931147264-7QHC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEah8IkBjMk2EJi1EE6Ixmd0ZbtCvA9HqIg)
 
 ---
 
 ## 🚀 Live Demo
 
-[🔗 View Live on GitHub Pages](https://abd-el-rahman-adel-dev.github.io/CodeAlpha_Tasks_BookLibrary)
+[🔗 View Live on GitHub Pages](https://codebyabdo.github.io/CodeAlpha_Tasks_BookLibrary)
 
 ## 📸 Screenshots
 
@@ -72,8 +72,8 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## 🙋‍♂️ Author
 
-- [Abd El-Rahman Adel](https://github.com/abd-el-rahman-adel-dev)
-- [LinkedIn](https://www.linkedin.com/in/abdelrahman-adel-webdev)
+- [Abd El-Rahman Adel](https://github.com/codebyabdo)
+- [LinkedIn](https://www.linkedin.com/in/codebyabdo)
 
 ---
 
